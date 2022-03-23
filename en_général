@@ -1,0 +1,49 @@
+Become FullStack Web Developer?
+Fullstack:
+“proficient” with “front-end” and “back-end” , plus “Dev-ops” for Web and Mobile. Full-stack developer:
+•	Many language, many framework, and many specialisation.
+•	Knowlege of : (1) Server – Network (2) Database (3) Web frameworks (4) Mobile frameworks
+•	Use UI/UX in projects
+•	Catch Business Logics and transforme to Technical Logics
+Road-map for becoming Full-stack Web developer
+Work on front-end, back-end, HTML, CSS, JavaScript Database, User Authentication,  Application logic,…
+Back-end, chose language: Node.js, PHP, Ruby, Python, Java,… (Node.js and JavaScript, PHP, Git, SVN,… 
+Dev-ops: deploy products, hosting, use VPS.
+HTML/CSS:
+•	Semantic HTML.
+•	CSS box Model.
+•	CSS preprocessors.
+•	CSS Media Queries.
+•	Bootstrap.
+JavaScript (JS):
+for Full-stack, front-end, back-end development. It is only languge natively on navigateur use for Back-end (Node.js).Working with JavaScript:
+•	Know about DOM and JSON and using.
+•	Importants: functional composition, prototypal inheritance, closures, event delegation, scope, higher-order functions.
+•	Asynchronous control flow, promises, and callbacks.
+•	Structure Code, module, tools webpack, browserify, or build tools like gulp.
+•	Use framework: React, AngularJS,...
+•	Use jQuery .
+•	Undestand the importand of frameworks.
+•	Write ES6+ (importance).
+
+Back-end:
+Data base:
+•	SQL.
+•	NoSQL, ex. MongoDB.
+•	Know When we use SQL or NoSQL.
+•	Connexion (ex. Node.js + MongoDB or PHP + SQL).
+•	Know using in-memory database like Redis or memcached.
+•	Memories Web for stokage: sessions, cookies, cached data on navigation.
+•	Scaling databases, ACID, và ORM ….
+HTTP & REST:
+HTTP is protocole Stateless. Server + Client (ex. code JavaScript của bạn có thể thực hiện một AJAX request đến một back-end code nào đó trên server thông qua HTTP). Một số topic bạn nên tìm hiểu để rõ hơn về HTTP và REST
+•	“Best practices” when designe a RESTful API. POST/GET requests.
+•	How to use Chrome DevTools .
+•	What is SSL Certificates!.
+•	HTTP/2 & SPDY (optional).
+•	WebSockets, Web Workers, và Service Workers.
+Web Application Architecture:
+How to build codebase, stokege files, structure data base, when and where use operations (client-side vs server-side)
+References: tree traversal, sorting, algorithm analysis, matrix manipulation, v.v.
+Summary
+Update and developpe code base.
